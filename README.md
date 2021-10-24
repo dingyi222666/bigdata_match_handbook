@@ -21,11 +21,13 @@
   * [基础架构搭建(三)](https://github.com/dingyi222666/bigdata_match_handbook/blob/main/大数据竞赛-基础架构搭建(三).md)
   
 * 数据仓库搭建
+
   * [数据仓库搭建(一)](https://github.com/dingyi222666/bigdata_match_handbook/blob/main/大数据竞赛-数据仓库搭建(一).md)  
   
   * [数据仓库搭建(二)](https://github.com/dingyi222666/bigdata_match_handbook/blob/main/大数据竞赛-数据仓库搭建(二).md)
 
 * hadoop动态添加节点
+
   * [hadoop动态添加节点](https://github.com/dingyi222666/bigdata_match_handbook/blob/main/大数据竞赛-hadoop动态添加节点.md)
   
      
